@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://worizg.github.io/YKT/sitemap.YKT.gz
